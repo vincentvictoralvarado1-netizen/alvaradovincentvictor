@@ -227,24 +227,24 @@ if (pfGrid) {
   const pfItems = [
   // Exercises
   { title: "Exercise 1",  type: "Exercise", link: "work/exercise/EXE1_ALVARADO.HTML" },
-  { title: "Exercise 2",  type: "Exercise", link: "work/exercise/EXE2_ALVARDO.html" },
-  { title: "Exercise 3",  type: "Exercise", link: "work/exercise/EXE3_ALVARADO.html" },
-  { title: "Exercise 4",  type: "Exercise", link: "work/exercise/EXE4_ALVARADO.html" },
-  { title: "Exercise 5",  type: "Exercise", link: "work/exercise/EXE5_ALVARADO(1).html" },
-  { title: "Exercise 6",  type: "Exercise", link: "work/exercise/EXE6_ALVARADO.html" },
-  { title: "Exercise 7",  type: "Exercise", link: "work/exercise/EXE7_ALVARADO.html" },
-  { title: "Exercise 8",  type: "Exercise", link: "work/exercise/EXE8_ALVARDO.html" },
-  { title: "Exercise 9",  type: "Exercise", link: "work/exercise/EXE9_ALVARADO(1).html" },
-  { title: "Exercise 10", type: "Exercise", link: "work/exercise/EXE10_ALVARADO.html" },
-  { title: "Exercise 11", type: "Exercise", link: "work/exercise/EXE11_ALVARADO (1).html" },
-  { title: "Exercise 12", type: "Exercise", link: "work/exercise/EXE12_ALVARADO.html" },
+  { title: "Exercise 2",  type: "Exercise", link: "work/exercise/EXE2_ALVARDO.HTML" },
+  { title: "Exercise 3",  type: "Exercise", link: "work/exercise/EXE3_ALVARADO.HTML" },
+  { title: "Exercise 4",  type: "Exercise", link: "work/exercise/EXE4_ALVARADO.HTML" },
+  { title: "Exercise 5",  type: "Exercise", link: "work/exercise/EXE5_ALVARADO(1).HTML" },
+  { title: "Exercise 6",  type: "Exercise", link: "work/exercise/EXE6_ALVARADO.HTML" },
+  { title: "Exercise 7",  type: "Exercise", link: "work/exercise/EXE7_ALVARADO.HTML" },
+  { title: "Exercise 8",  type: "Exercise", link: "work/exercise/EXE8_ALVARDO.HTML" },
+  { title: "Exercise 9",  type: "Exercise", link: "work/exercise/EXE9_ALVARADO(1).HTML" },
+  { title: "Exercise 10", type: "Exercise", link: "work/exercise/EXE10_ALVARADO.HTML" },
+  { title: "Exercise 11", type: "Exercise", link: "work/exercise/EXE11_ALVARADO (1).HTML" },
+  { title: "Exercise 12", type: "Exercise", link: "work/exercise/EXE12_ALVARADO.HTML" },
 
   // Activities
-  { title: "Activity 1", type: "Activity", link: "work/activities/ACT1_ALVARADO.html" },
-  { title: "Activity 2", type: "Activity", link: "work/activities/ACT2_ALVARADO.html" },
-  { title: "Activity 3", type: "Activity", link: "work/activities/ACT3_ALVARADO.html" },
-  { title: "Activity 4", type: "Activity", link: "work/activities/ACT4_ALVARADO.html" },
-  { title: "Activity 5", type: "Activity", link: "work/activities/ACT5_ALVARADO.html" }
+  { title: "Activity 1", type: "Activity", link: "work/activities/ACT1_ALVARADO.HMTL" },
+  { title: "Activity 2", type: "Activity", link: "work/activities/ACT2_ALVARADO.HTML" },
+  { title: "Activity 3", type: "Activity", link: "work/activities/ACT3_ALVARADO.HTML" },
+  { title: "Activity 4", type: "Activity", link: "work/activities/ACT4_ALVARADO.HTML" },
+  { title: "Activity 5", type: "Activity", link: "work/activities/ACT5_ALVARADO.HTML" }
 ];
 
   // Change this to the tools you really used
