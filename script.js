@@ -226,7 +226,7 @@ if (pfGrid) {
   // Add or edit your work here
   const pfItems = [
   // Exercises
-  { title: "Exercise 1",  type: "Exercise", link: "work/exercise/EXE1_ALVARADO.html" },
+  { title: "Exercise 1",  type: "Exercise", link: "work/exercise/EXE1_ALVARADO.HTML" },
   { title: "Exercise 2",  type: "Exercise", link: "work/exercise/EXE2_ALVARDO.html" },
   { title: "Exercise 3",  type: "Exercise", link: "work/exercise/EXE3_ALVARADO.html" },
   { title: "Exercise 4",  type: "Exercise", link: "work/exercise/EXE4_ALVARADO.html" },
